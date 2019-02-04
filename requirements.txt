@@ -1,0 +1,4 @@
+Django==1.11
+Pillow==5.4.1
+Pillow-PIL==0.1.dev0
+pytz==2018.9
