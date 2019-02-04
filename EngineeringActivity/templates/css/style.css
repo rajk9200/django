@@ -1,0 +1,22 @@
+body{
+     background: #fff !important;
+}
+.bg-dark{
+    background:#f8f9fa !important;
+}
+
+.nav-list{
+    border: #f8f9fa solid 1px;
+    padding-bottom:20px;
+}
+
+.dropdown-header {
+
+    color: #232020;
+
+    background: #ffc107;
+}
+.navbar-collapse a
+{
+    color: #6f7275 !important;
+}
